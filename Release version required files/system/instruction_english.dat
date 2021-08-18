@@ -1,0 +1,19 @@
+<h2>Instruction</h2>
+I.User:<br>
+    1.The default user is "User1"<br>
+    2.Sign Up : Sign Up → Set user name and verification code(only English letters, numbers, symbols)<br>
+    3.Edit User Information : Setting → Edit User Information<br>
+    4.Delete User : Setting → Delete User<br>
+	§Note: This action "cannot" be undone<br><br>
+II.Verification Code:<br>
+    1.The default verification code for User1 is "0000"<br>
+    2.Change Verification Code : Setting → Change Verification Code(only English letters, numbers, symbols)<br><br>
+III.Password:<br>
+    1.Add New Password : Setting → Add New Password(except for the item name, others are limited to English letters, numbers, symbols)<br>
+    2.Delete Old Password : Setting → Delete Old Password<br>
+	§Note: This action "cannot" be undone<br>
+    3.Edit Old Password : Setting → Edit Old Password(only English letters, numbers, symbols)<br><br>
+IV.Search:<br>
+    Choise the item → Input verification code → Push "Search" button<br>
+V.Language:<br>
+    This software only supports "Traditional Chinese" and "English"
