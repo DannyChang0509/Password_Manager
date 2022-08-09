@@ -1,5 +1,12 @@
 # Password_Manager
 
+## About
+
+* Description: It is asoftware for managing users' passwords, it won't connect to the net so it can highly protect users' privacy. Additionally, it can register many users on a device.
+* Language: 正體中文(Traditional Chinese)/英文(English)
+* Programming Language: C++ with Qt
+* Working System: Windows
+
 ## Previous Versions
 
 1.0 : Initial version
